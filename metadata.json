@@ -1,0 +1,6 @@
+{
+  "name": "Blood Donor Finder",
+  "description": "Emergency blood donor finder to connect recipients with nearby matching blood donors, calculate distances, and manage verified medical records.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
